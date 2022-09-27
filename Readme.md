@@ -8,4 +8,4 @@ To make a 2D finite elements program using python which can solve stationary the
 
 ## Algorithm
 
-![](Screenshot 2022-09-27 211927.png)
+![](images//Screenshot%202022-09-27%20211927.png)
