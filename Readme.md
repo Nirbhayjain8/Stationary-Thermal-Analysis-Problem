@@ -21,4 +21,4 @@ Under the following Boundary conditions,
 
 # Comparison between Exact solution of 2d Problem with FE and FD method
 
-![](images//comparison.png)]
+![](images//comparison.png)
